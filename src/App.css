@@ -1,0 +1,19 @@
+.tree {
+  margin-left: 5px;
+}
+.node {
+  display: flex;
+  align-items: center;
+}
+
+.tree-node {
+  margin-left: 30px;
+}
+
+.leaf {
+  padding-left: 24px;
+}
+
+.span-tree {
+  cursor: pointer;
+}
